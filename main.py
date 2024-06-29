@@ -6,8 +6,8 @@ from config import config
 def main():
     api_key = os.getenv('YT_API_KEY')
     channel_ids = [
-        'Ид канала 1',  # Chanel
-        'ИД канала 2',  # Редакция
+        'UCf31Gf5nCU8J6eUlr7QSU0w',  # Marmok
+        'UC746FHtnsAzDgF1diWwf-6A',  # Lekarok
     ]
     params = config()
 
